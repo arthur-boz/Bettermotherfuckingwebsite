@@ -1,0 +1,32 @@
+body
+{
+
+  margin:40px
+auto;max-width:650px;
+line-height:1.6;
+font-size:18px;
+color:red;
+padding:0
+10px}
+h1,h2,h3{line-height:1.2
+}
+p
+{
+ color: #303030;
+ font-family: Arial,sans-serif;
+}
+h1
+{
+  color: #303030;
+  font-family: Arial,sans-serif;
+}
+h2
+{
+  color: #303030;
+  font-family: Arial,sans-serif;
+}
+header
+{
+  color: #303030;
+  font-family: Arial,sans-serif;
+}
